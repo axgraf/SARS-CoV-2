@@ -102,7 +102,7 @@ The patient’s travel history revealed multiple introductions from various skii
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 5 -->
 <!--  Each slide MUST start with a link to a specific view of the dataset (must match the `dataset` specified above) -->
-# [Local phylogenetic relationship of SARS-CoV-2 genomes and transmission dynamics](https://nextstrain.org/community/axgraf/SARS-CoV-2/Munich/regional?c=status&d=tree,entropy&p=full)
+# [Local phylogenetic relationship of SARS-CoV-2 genomes and transmission dynamics](https://nextstrain.org/community/axgraf/SARS-CoV-2/Munich/local?c=status&d=tree,entropy&p=full)
 
 <!-- This is left-side text -->
 Local phyologenetic tree showing the 174 Munich cases grouped by staff and patient.
@@ -117,7 +117,7 @@ However, given the low genetic diversity in this early phase of the pandemic, se
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 6 -->
 <!--  Each slide MUST start with a link to a specific view of the dataset (must match the `dataset` specified above) -->
-# [Local phylogenetic relationship of SARS-CoV-2 genomes and transmission dynamics](https://nextstrain.org/community/axgraf/SARS-CoV-2/Munich/regional?c=covid19_infection_type&d=tree,entropy&p=full)
+# [Local phylogenetic relationship of SARS-CoV-2 genomes and transmission dynamics](https://nextstrain.org/community/axgraf/SARS-CoV-2/Munich/local?c=covid19_infection_type&d=tree,entropy&p=full)
 
 <!-- This is left-side text -->
 Local phyologenetic tree showing the 174 Munich cases grouped by infection type.
