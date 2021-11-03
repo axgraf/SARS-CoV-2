@@ -1,5 +1,5 @@
 ---
-title: Genomic epidemiology reveals multiple introductions followed by community and nosocomial spread of SARS-CoV-2 in Bavaria, February to May 2020.
+title: Genomic epidemiology reveals multiple introductions of SARS-CoV-2 followed by community and nosocomial spread, Germany, February to May 2020.
 authors:
   - Max Münchhoff
   - Alexander Graf
